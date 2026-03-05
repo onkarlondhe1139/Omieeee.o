@@ -2,13 +2,13 @@ Hi there 👋
 
 🛠️ I'm currently Studing in S.B. Patil College of Engineering Indapur, Pune
 
-🌱 Learning Fullstack Development, Cloud Practices.
+🌱 Learning Data Analytics, Power BI.
 
-🧑‍🤝‍🧑 Open to collaborating on exciting Frontend,Backend,Full Stack Development, Python, and AWS projects.
+🧑‍🤝‍🧑 Open to collaborating on exciting AI/ML, Data Science, Data Analytics, Python, and MERN stack development.
 
-🧑‍🏫 Seeking guidance on Fullstack and Cloud Projects.
+🧑‍🏫 Seeking guidance on Data Analytics and Data Science Projects.
 
-❓ Ask me about : MERN Stack and Amazon Web Services 
+❓ Ask me about : Data Analytics, Excel, SQl, And Power BI
 
 📬 How to reach me: onkarlondhe1139@gmail.com 
 
