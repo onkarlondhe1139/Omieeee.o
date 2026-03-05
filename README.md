@@ -8,7 +8,7 @@ Hi there 👋
 
 🧑‍🏫 Seeking guidance on Data Analytics and Data Science Projects.
 
-❓ Ask me about : Data Analytics, Excel, SQl, And Power BI
+❓ Ask me about : Data Analytics, Excel, SQL, And Power BI
 
 📬 How to reach me: onkarlondhe1139@gmail.com 
 
